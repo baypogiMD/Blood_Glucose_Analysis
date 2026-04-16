@@ -16,6 +16,7 @@ The objective is to:
 
 ## Dataset
 **Source:** Kaggle – Dataset With/Without Blood Glucose Values  (https://www.kaggle.com/datasets/dwufoo/dataset-withwithout-blood-glucose-values)
+
 **Records:** 5,905  
 **Features:** 42 laboratory and demographic variables  
 
